@@ -2,7 +2,7 @@
 Works toward Python-100-Days by jackfrued (骆昊)
 
 ## Motivation
-Consolidating Skills in Python through working toward the project Python-100-Days
+Consolidating skills in Python through working toward the project Python-100-Days
 
 ## File Description
 The md files starting with a number representing the day are tutorials created by jackfrued (骆昊) in the in the project named [“Python-100-Days”](<https://github.com/jackfrued/Python-100-Days>).
