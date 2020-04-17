@@ -5,7 +5,6 @@ Works toward Python-100-Days by jackfrued (骆昊)
 Consolidating skills in Python through working toward the project Python-100-Days
 
 ## File Description
-The md files starting with a number representing the day are tutorials created by jackfrued (骆昊) in the in the project named [“Python-100-Days”](<https://github.com/jackfrued/Python-100-Days>).
 The Jupyter notebooks named by 'day' plus the number of the day are the works to the examples/problems given in the tutorials.
 
 ## Authors & Acknowledgements
